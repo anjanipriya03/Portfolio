@@ -1,0 +1,10 @@
+.about{
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 1000px;
+}
+.about p{
+    margin: 1.2rem 0;
+    
+}
