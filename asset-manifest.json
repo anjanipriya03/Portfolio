@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.c742363c.css",
-    "main.js": "/Portfolio/static/js/main.b78a327e.js",
+    "main.js": "/Portfolio/static/js/main.f6ff46ee.js",
     "static/media/pexels-tranmautritam-251225.jpg": "/Portfolio/static/media/pexels-tranmautritam-251225.a24b6126994d53b05450.jpg",
     "static/media/pexels-bich-tran-669996.jpg": "/Portfolio/static/media/pexels-bich-tran-669996.0acaeec6d60e4dd1b623.jpg",
     "static/media/project1.png": "/Portfolio/static/media/project1.ad3a04be9e44d0a8af8e.png",
@@ -10,10 +10,10 @@
     "static/media/project3.png": "/Portfolio/static/media/project3.8dca0e4acfa84c8316e0.png",
     "index.html": "/Portfolio/index.html",
     "main.c742363c.css.map": "/Portfolio/static/css/main.c742363c.css.map",
-    "main.b78a327e.js.map": "/Portfolio/static/js/main.b78a327e.js.map"
+    "main.f6ff46ee.js.map": "/Portfolio/static/js/main.f6ff46ee.js.map"
   },
   "entrypoints": [
     "static/css/main.c742363c.css",
-    "static/js/main.b78a327e.js"
+    "static/js/main.f6ff46ee.js"
   ]
 }
